@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://github.com/tsots/queen",
+  "homepage": "https://tsots.github.io/queen",
   "scripts": {
     "deploy": "gh-pages -d dist"
   },
